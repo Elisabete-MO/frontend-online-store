@@ -1,7 +1,7 @@
 ## :department_store: Projeto Front-End Online Store
 (grupo - data de entrega 20/10/2022)
 
-Deploy: <a href="https://starwars-project-betemrt.glitch.me/">StarWars Planet Search</a>
+Deploy: <a href="https://front-end-online-store.glitch.me/">Front End Online Store</a>
 
 ## Grupo 24-B (Melhor grupo EVER!!!) :heart::heart::heart::heart::heart:
 ### Integrantes:
